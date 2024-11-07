@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.92379458.css",
-    "main.js": "/static/js/main.8627b19c.js",
-    "static/media/signal-2024-11-04-221228.png": "/static/media/signal-2024-11-04-221228.3a02a863218bdb334f64.png",
-    "index.html": "/index.html",
-    "main.92379458.css.map": "/static/css/main.92379458.css.map",
-    "main.8627b19c.js.map": "/static/js/main.8627b19c.js.map"
+    "main.css": "./static/css/main.92379458.css",
+    "main.js": "./static/js/main.1542d005.js",
+    "static/media/signal-2024-11-04-221228.png": "./static/media/signal-2024-11-04-221228.3a02a863218bdb334f64.png",
+    "index.html": "./index.html",
+    "main.92379458.css.map": "./static/css/main.92379458.css.map",
+    "main.1542d005.js.map": "./static/js/main.1542d005.js.map"
   },
   "entrypoints": [
     "static/css/main.92379458.css",
-    "static/js/main.8627b19c.js"
+    "static/js/main.1542d005.js"
   ]
 }
